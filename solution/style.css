@@ -1,0 +1,65 @@
+#wrapper{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+li{
+    display: inline;
+    padding: 2px;
+    font-size: 20px;
+}
+
+li a{
+    color:#000;
+    text-decoration: underline;
+}
+
+#leftSide{
+    width: 50%;
+    float: left;
+}
+
+#rightSide{
+    width: 50%;
+    float: right;
+}
+
+.horizntal{
+    height:4px;border:none;color:#333;background-color:#333;
+}
+
+hr , nav {
+    clear: both;
+}
+
+#sp {
+    text-decoration: none;
+    font-style: italic;
+}
+
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+
+img{
+    border: 1px solid #000;
+    padding:4px;
+}
+
+#txtLeft{
+    text-align: left;
+}
+
+
+.spText{
+    font-weight: bold;
+}
+
+.spList{
+    display: block;
+
+}
